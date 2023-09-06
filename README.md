@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Beed, Maharashtra.</h3>
 
 <img align="right" alt="webdev.gif" width="300" src="https://www.rtspvtltd.com/images/work/SD.gif">
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 🔭 I’m currently working on [iNotebook](https://github.com/Shrikantj0794/iNotebook-react)
