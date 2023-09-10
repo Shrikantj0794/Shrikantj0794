@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,php,html,css,bootstrap,figma,wordpress,javascript,react,nodejs,nextjs,expressjs,mysql,mongodb,vscode,replit,git,github")
+<img src="https://skillicons.dev/icons?i=java,php,html,css,bootstrap,figma,wordpress,javascript,react,nodejs,expressjs,mysql,mongodb,vscode,replit,git,github")
 </p>
 
 
