@@ -23,6 +23,3 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,php,html,css,bootstrap,figma,wordpress,javascript,react,nodejs,expressjs,mysql,mongodb,vscode,replit,git,github")
 </p>
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikantj0794&" alt="shrikantj0794" /></p>
