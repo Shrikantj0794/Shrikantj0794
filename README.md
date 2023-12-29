@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrikant Jamale</h1>
-<h3 align="center">A passionate frontend developer from Beed, Maharashtra.</h3>
+<h3 align="center">A passionate frontend developer from Pune, Maharashtra.</h3>
 
 <img align="right" alt="webdev.gif" width="300" src="https://www.rtspvtltd.com/images/work/SD.gif">
 
