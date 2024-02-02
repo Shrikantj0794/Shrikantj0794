@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on [iNotebook](https://github.com/Shrikantj0794/iNotebook-react)
+- 🔭 I’m currently working on [UNIScreen](https://github.com/Shrikantj0794/UNIScreen)
 
 - 📫 How to reach me **Shrikantj0794@gmail.com**
 
