@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on [UNIScreen](https://github.com/Shrikantj0794/UNIScreen)
+- 🔭 I’m currently working on [UNIScreen.ai](https://github.com/Shrikantj0794/UNIScreen)
 
 - 📫 How to reach me **Shrikantj0794@gmail.com**
 
