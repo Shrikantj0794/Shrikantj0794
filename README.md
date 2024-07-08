@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 personal portfolio (https://shrikantj0794.netlify.app/)
+- 🔭 personal portfolio [Click here](https://shrikantj0794.netlify.app/)
 
 - 📫 How to reach me **Shrikantj0794@gmail.com**
 
